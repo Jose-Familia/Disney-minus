@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './components/Header'
-import Slider from './components/slider'
+import Slider from './components/Slider'
 import ProductionHouse from './components/ProductionHouse'
 import GenreMovieList from './components/GenreMovieList'
 
