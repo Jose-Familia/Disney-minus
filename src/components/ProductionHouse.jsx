@@ -1,15 +1,15 @@
 import React from 'react'
-import Disney from './../assets/Images/disney.png'
-import Marvel from './../assets/Images/marvel.png'
-import NationalG from './../assets/Images/nationalG.png'
-import Pixar from './../assets/Images/pixar.png'
-import Starwar from './../assets/Images/starwar.png'
+import Disney from '../assets/Images/disney.png'
+import Marvel from '../assets/Images/marvel.png'
+import NationalG from '../assets/Images/nationalG.png'
+import Pixar from '../assets/Images/pixar.png'
+import Starwar from '../assets/Images/starwar.png'
  
-import StarwarV from './../assets/Videos/star-wars.mp4'
-import DisneyV from './../assets/Videos/disney.mp4'
-import MarvelV from './../assets/Videos/marvel.mp4'
-import NationalGeographicV from './../assets/Videos/national-geographic.mp4'
-import PixarV from './../assets/Videos/pixar.mp4'
+import StarwarV from '../assets/Videos/star-wars.mp4'
+import DisneyV from '../assets/Videos/disney.mp4'
+import MarvelV from '../assets/Videos/marvel.mp4'
+import NationalGeographicV from '../assets/Videos/national-geographic.mp4'
+import PixarV from '../assets/Videos/pixar.mp4'
 
 
 function ProductionHouse() {
